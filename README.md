@@ -1,7 +1,6 @@
-## 👋 Hi, I’m Pedro Coelho, a Brazilian front-end developer, based in Brazil.
+## 👋 Hi, I’m Pedro Coelho, I build Web and Mobile  Apps.
 
-- 👀 I’m interested in all things JavaScript, React, mobile and web development.
-- 🌱 I’m currently learning Flutter
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedrocoelho)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 check my website https://www.pedrocoelhodev.com
 
